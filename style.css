@@ -127,7 +127,7 @@
 }
 .header_school-okten{
     font-size: 202px;
-    font-weight: 900px;
+    font-weight: 900;
     text-transform: uppercase;
     background: linear-gradient(98deg, #3298F2, #FF9638);
     -webkit-background-clip: text;
@@ -137,7 +137,7 @@
 }
 .header_school2{
     font-size: 168px;
-    font-weight: 900px;
+    font-weight: 900;
     color: #ffffff;
     -webkit-text-stroke-color: #3298F2;
     -webkit-text-stroke-width: 2px;
